@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Secrets
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Security scan output
+reports/
+results/
+*.sarif
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
