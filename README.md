@@ -1,8 +1,36 @@
-# Kelvin Odarikpe — Security Engineering Portfolio
+# Kelvin Odarikpe
 
-**AppSec · Detection Engineering · Cloud Security**
+Security Engineer | Detection Engineering | SOC | AppSec | Cloud Security
 
-Berlin, Germany · 2026
+Berlin, Germany
+
+I build security engineering projects that turn security concepts into
+tested, documented and repeatable implementations.
+## Featured Security Projects
+
+### Detection Engineering
+
+- Detection-as-Code
+- MITRE ATT&CK Coverage Tracker
+- C2 Beacon Detector
+
+### Cloud & DevSecOps
+
+- IaC Security Gate
+- Cloud Detection Lab
+- Security Posture Report
+
+### IAM & Security Operations
+
+- IAM Privilege Auditor
+- Security Operations SOP
+
+Problem
+Approach
+Implementation
+Testing
+Evidence
+Security impact
 
 This repository is the central index for my cybersecurity engineering portfolio.
 
